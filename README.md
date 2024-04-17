@@ -36,7 +36,7 @@ This is really intetetring learning path loaded with how Microsoft manages its o
 29. Discover how #Microsoft #AI protects #natural resources – A #Department of #Natural #Resources success story
 30. Discover how #Microsoft #AI enables #green #mobility – A #Stadtwerke #München #success #story
 
-Link to PDF document with all content, screeenshots, refrences and videos screencaputre 
+Link to PDF document with all content, screenshot, references and videos screen capture 
 [Discover Microsoft AI for leaders in sustainability](<20240415 Discover Microsoft AI for leaders in sustainability/Discover Microsoft AI for leaders in sustainability.pdf>)
 
 
