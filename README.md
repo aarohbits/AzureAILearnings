@@ -5,8 +5,10 @@ All learning on AI and Azure AI
 
 This is really intetetring learning path loaded with how Microsoft manages its own AI culture and how other companies can use as the bases. 
 
-1. Leverage #AI tools and resources for your business. 
-2. Identify basic #AI #technology concepts
++ ### Introduction
+
+        * ### 1. Leverage #AI tools and resources for your business. 
+        * ### 2. Identify basic #AI #technology concepts
 3. Learn the #Microsoft #AI approach
 4. Use AI embedded in everyday applications
 5. Discover how Microsoft #PowerPlatform brings AI to your business
@@ -38,5 +40,7 @@ This is really intetetring learning path loaded with how Microsoft manages its o
 
 Link to PDF document with all content, screenshot, references and videos screen capture 
 [Discover Microsoft AI for leaders in sustainability](<20240415 Discover Microsoft AI for leaders in sustainability/Discover Microsoft AI for leaders in sustainability.pdf>)
+
+
 
 
