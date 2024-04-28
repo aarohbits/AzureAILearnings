@@ -39,9 +39,44 @@ This is really intetetring learning path loaded with how Microsoft manages its o
 29. Discover how #Microsoft #AI protects #natural resources – A #Department of #Natural #Resources success story
 30. Discover how #Microsoft #AI enables #green #mobility – A #Stadtwerke #München #success #story
 
-Link to PDF document with all content, screenshot, references and videos screen capture 
+Link to PDF document with all content, screenshots, references and videos screen capture 
 [Discover Microsoft AI for leaders in sustainability](<20240415 Discover Microsoft AI for leaders in sustainability/Discover Microsoft AI for leaders in sustainability.pdf>)
 </details>
+
+## Career Essentials in Generative AI by Microsoft and LinkedIn
+
+Career Essentials in Generative AI by Microsoft and LinkedIn
+<details>
+  <summary>Career Essentials in Generative AI by Microsoft and LinkedIn</summary>
+1.	What Is Generative AI?
+2.	Main Models
+3.	The Future of AI
+4.	Ethics and responsibility
+5.	Generative AI: The Evolution of Thoughtful Online Search
+6.	Harness the power of prompt engineering
+7.	Streamlining Your Work with Microsoft Copilot
+8.	Use your AI assistant in Microsoft 365
+9.	Generative AI and Ethics - the Urgency of Now
+10.	Introduction to Artificial Intelligence
+11.	Strong vs. weak AI
+12.	Machine learning
+13.	Artificial neural networks
+14.	Searching for patterns in data
+15.	Natural language processing
+16.	Supervised learning
+17.	Unsupervised learning
+18.	Different ML models 
+19.	Build a neural network
+20.	Weighing the connections
+21.	Building an AI system
+
+Link to PDF document with all content, screenshots, references and videos screen capture 
+[Career Essentials in Generative AI by Microsoft and LinkedI](<20240424 - Career Essentials in Generative AI by Microsoft and LinkedIn/Career Essentials in Generative AI by Microsoft and LinkedIn.pdf>)
+
+ </details> 
+
+
+
 
 
 
