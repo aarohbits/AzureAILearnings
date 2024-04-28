@@ -48,6 +48,7 @@ Link to PDF document with all content, screenshots, references and videos screen
 Career Essentials in Generative AI by Microsoft and LinkedIn
 <details>
   <summary>Career Essentials in Generative AI by Microsoft and LinkedIn</summary>
+
 1.	What Is Generative AI?
 2.	Main Models
 3.	The Future of AI
